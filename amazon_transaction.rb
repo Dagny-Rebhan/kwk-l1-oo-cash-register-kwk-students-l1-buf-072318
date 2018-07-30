@@ -18,6 +18,6 @@ end
   def apply_discount
     @total = (100.0-@discount)/100*@total 
   end
-
+"Your "
 
 end
