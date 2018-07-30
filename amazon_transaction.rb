@@ -21,4 +21,4 @@ end
 "After the discount, the total comes to $#{@total}."
 
 end
-AmazonTransaction
+AmazonTransaction.apply_discount
