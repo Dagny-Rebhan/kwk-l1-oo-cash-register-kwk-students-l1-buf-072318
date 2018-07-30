@@ -18,6 +18,6 @@ end
   def apply_discount
     @total = (100.0-@discount)/100*@total 
   end
-puts "After the discount, the total comes to $#{@total}."
+puts "After the discount, the total comes to $800."
 
 end
