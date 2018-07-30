@@ -21,4 +21,4 @@ end
 "After the discount, the total comes to $#{@total}."
 
 end
-puts "After the discount, the total comes to $#{@total}."
+AmazonTransaction
